@@ -3,8 +3,9 @@
 You can use the [editor on GitHub](https://github.com/JoalyHernandezGuzman/joalyhernandez.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/98057315/155377422-cb5194bc-9d6f-471b-86bf-bd3dd1aaa611.png)
 
-### Markdown
+### Rebaja
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -17,7 +18,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+JOALY HERNANDEZ GUZMAN
 1. Numbered
 2. List
 
